@@ -122,7 +122,6 @@ xorg-font-util
 fontconfig
 zsh-autosuggestions
 zsh-syntax-highlighting
-blackman
 archlinux-wallpaper
 xorg
 xorg-xinit
@@ -150,4 +149,4 @@ vscodium-bin
 archey4
 stacer
 ttf-meslo-nerd-font-powerlevel10k
-ly-git;
+ly-git
