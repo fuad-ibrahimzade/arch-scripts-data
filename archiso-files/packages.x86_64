@@ -143,6 +143,7 @@ jgmenu
 tint2
 grub
 neofetch
+p7zip
 trizen
 fbcat-git
 bauh
@@ -154,3 +155,4 @@ stacer
 slimjet
 ttf-meslo-nerd-font-powerlevel10k
 ly-git
+p7zip-gui
