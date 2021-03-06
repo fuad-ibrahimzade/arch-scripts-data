@@ -159,6 +159,12 @@ bpytop
 xorg-xbacklight
 acpi
 micro
+thefuck
+python-pywal
+nmon
+atop
+nethogs
+net-tools
 trizen
 fbcat-git
 bauh
