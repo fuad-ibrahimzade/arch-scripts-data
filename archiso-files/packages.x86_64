@@ -165,6 +165,7 @@ nmon
 atop
 nethogs
 net-tools
+powertop
 trizen
 fbcat-git
 bauh
