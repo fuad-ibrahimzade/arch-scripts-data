@@ -166,7 +166,6 @@ atop
 nethogs
 net-tools
 powertop
-clipit
 trizen
 fbcat-git
 bauh
@@ -188,3 +187,4 @@ freedownloadmanager
 bass-fish
 snapd
 flatpak
+clipit
