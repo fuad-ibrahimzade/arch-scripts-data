@@ -145,8 +145,6 @@ grub
 neofetch
 p7zip
 trash-cli
-speedreader
-uniread
 abiword
 zathura
 zathura-pdf-mupdf
@@ -188,3 +186,5 @@ bass-fish
 snapd
 flatpak
 clipit
+speedreader
+uniread
