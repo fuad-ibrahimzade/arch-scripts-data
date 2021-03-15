@@ -164,6 +164,9 @@ atop
 nethogs
 net-tools
 powertop
+aria2
+feedreader
+newsboat
 trizen
 fbcat-git
 bauh
