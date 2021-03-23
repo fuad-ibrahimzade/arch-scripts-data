@@ -169,6 +169,7 @@ feedreader
 newsboat
 ruby
 emacs
+tk
 trizen
 fbcat-git
 bauh
@@ -191,8 +192,6 @@ bass-fish
 snapd
 flatpak
 clipit
-speedreader
-uniread
 t2ec
 zectl
 zectl-pacman-hook
