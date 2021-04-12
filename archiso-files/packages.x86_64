@@ -193,6 +193,7 @@ snapd
 flatpak
 clipit
 t2ec
+bleachbit-cli
 zectl
 zectl-pacman-hook
 aura
